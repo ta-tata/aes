@@ -1,5 +1,5 @@
 # aes
-this program calculate 1 round of aes. this out put is no difference between input and output.
+this program calculate 1 round of aes. this out put is no difference between input and output.(1byte)
 
 Example)
   assumption)
